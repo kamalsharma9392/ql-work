@@ -1,0 +1,21 @@
+.home-page{
+    padding: 40px;
+}
+.logout{
+    cursor: pointer;
+}
+.register .control-group{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.register .error-block{
+    font-size: 13px;
+    color: red;
+}
+.display-group label{
+    font-size: 16px;
+    font-weight: bold;
+}
+.display-group .controls{
+    margin-left: 10px;
+}
